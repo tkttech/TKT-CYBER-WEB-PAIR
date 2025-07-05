@@ -91,27 +91,27 @@ router.get('/', async (req, res) => {
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Tohidkhan6332/TOHID-AI
+https://github.com/tkttech/TKT-CYBER-XMD
 
 *Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
-https://t.me/Tohid_Tech
+https://t.me/tktmusik
 
 *WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
-https://chat.whatsapp.com/IqRWSp7pXx8DIMtSgDICGu
+https://chat.whatsapp.com/Hn0CUUsl6SM4q0RRKdNM2c
 
-*WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+*WʜᴀᴛsAᴘᴘ ᴄʜaɴɴᴀʟ* 🌟
+https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-https://youtube.com/Tohidkhan_6332
+https://youtube.com/@tafadzwatkt
 
 *ɢɪᴛʜᴜʙ* 🌟
-http://GitHub.com/Tohidkhan6332
+http://GitHub.com/tkttech
 
 *Wᴇʙsɪᴛᴇ* 🌟
-https://tohid-khan-web.vercel.app/
+https://github.com/tkttech/TKT-CYBER-XMD
 
-*TOHID-AI--WHATTSAPP-BOT* 🥀
+*TKT-CYBER-XMD-WHATTSAPP-BOT* 🌹
 ` 
                     });
 
